@@ -1,0 +1,25 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 1rem;
+    height: 30rem;
+width: 35rem;
+}
+.both{
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+}
+.both_button{
+    margin-top: 6rem;
+    
+}
+.inside{
+    background-color: aquamarine;
+    height: 3rem;
+}
+*{
+    background-color: aliceblue;
+}
